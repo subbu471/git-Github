@@ -1,3 +1,3 @@
 Testing git webhook
 
-Trying to trigger Jenkins
+Trying to trigger Jenkins using Github
