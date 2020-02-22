@@ -1,6 +1,0 @@
-Testing git webhook
-
-Trying to trigger Jenkins using Github
-
-Hi Jenkins .............
-
